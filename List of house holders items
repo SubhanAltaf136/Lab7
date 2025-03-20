@@ -1,4 +1,8 @@
 
 int main() {
+ 2nd-branch
     printf("Household items: Chair, Table, Fan,sofa, Lamp, Fridge\n");
+
+    printf("Household items: Chair, Table, Fan, Lamp,iron, Fridge\n");
+ main
     return 0;
