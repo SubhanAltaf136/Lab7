@@ -1,0 +1,4 @@
+
+int main() {
+    printf("Household items: Chair, Table, Fan, Lamp, Fridge\n");
+    return 0;
